@@ -1,0 +1,1 @@
+[![Cover](./.github/cover.jpg)](https://wation.net)
