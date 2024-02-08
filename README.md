@@ -1,1 +1,1 @@
-[![Cover](./.github/cover.jpg)](https://wation.net)
+[![Cover](./.github/cover.jpg)](https://github.com/TheWation)
